@@ -1,7 +1,7 @@
 # Delta robot LEGO builder
 
 
-A Delta Robot with multiple functionalities
+A Delta Robot with multiple functionalities across three different workspaces
 
 # Table of Contents
   * [What is this?](#what-is-this)
