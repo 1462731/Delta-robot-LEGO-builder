@@ -25,10 +25,18 @@ Our project consists of a delta robot mounted on a rail and equipped with a Grip
 For the simulation:
 - CoppeliaSim
 
-For running the code:
+For running the simulation code:
 - Python 3.9.x
+- sim.py
+- simConst.py
+- remoteApi.dlll
 - numpy
+- simpy
+- math
+- cv2
 
+For running the 3D reconstruction code:
+- Matlab
 
 # Documentation
 
