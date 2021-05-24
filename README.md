@@ -30,12 +30,12 @@ For running the code:
 - numpy
 
 
-#Documentation
+# Documentation
 
 This README is only a brief summary of the functionalities, for more information on the implementation you can check out our project report at [insert link here]
 All the demo clips are watchable on youtube at [insert link here]
 
-#How to use
+# How to use
 
 1. Clone this repo.
 2. Install the required libraries
@@ -44,10 +44,10 @@ All the demo clips are watchable on youtube at [insert link here]
 5. Start the simulation
 6. Execute the jupyter notebook
 
-#LEGO figure detection
+# LEGO figure detection
 
-#3D Object reconstruction
+# 3D Object reconstruction
 
-#Building
+# Building
 
 
