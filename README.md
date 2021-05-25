@@ -47,15 +47,18 @@ All the demo clips are watchable on youtube at [insert link here]
 
 1. Clone this repo.
 2. Install the required libraries
-3. Open the CoppeliaSim Simultion module you want
+3. Open the CoppeliaSim Simulation module you want
 4. Open the corresponding jupyter notebook file
 5. Start the simulation
 6. Execute the jupyter notebook
 
 # LEGO figure detection
+In this module the robot rotates the camera around the objects in order to extract the images needed for the Space Carving algorithm.
 
 # 3D Object reconstruction
+This module simulates the execution loop of the sorting stage of the robot. In it, the robot takes a picture of the initial state of the scattered bricks in the workspace. The camera output is then passed to the jupyter notebook code where it detects the positions and orientations of all lego pieces, which it uses to plan and then execute a sorting routine where it places all bricks on different columns depending on type. 
 
 # Building
 
+This final module simulates the state in which the robot has already scanned the object into a 3D stl and sorted the pieces it needs for the build. The robot uses these to build the equivalent object in LEGO bricks given the shapes available.
 
