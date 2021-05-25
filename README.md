@@ -41,7 +41,7 @@ For running the 3D reconstruction code:
 # Documentation
 
 This README is only a brief summary of the functionalities, for more information on the implementation you can check out our project report at [insert link here]
-All the demo clips are watchable on youtube (here)[https://www.youtube.com/watch?v=3omnnSd8MN4]
+All the demo clips are watchable on youtube [here](https://www.youtube.com/watch?v=3omnnSd8MN4)
 
 # How to use
 
