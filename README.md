@@ -1,5 +1,5 @@
 # Delta robot LEGO builder
-
+<img src="https://github.com/1462731/Delta-robot-LEGO-builder/blob/main/Models/High%20Res%20Model/Renders/RenderHome.png?raw=true" align="center" width="600" alt="header pic"/>
 
 A Delta Robot with multiple functionalities across three different workspaces
 
