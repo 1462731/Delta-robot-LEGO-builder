@@ -10,6 +10,7 @@ A Delta Robot with multiple functionalities across three different workspaces
   * [How to use](#how-to-use)
   * [LEGO figure detection](#LEGO-figure-detection)
   * [3D Object reconstruction](#3d-object-reconstruction)
+  * [Hardware Scheme](#Hardware-scheme)
   * [Building](#building)
 
 
@@ -57,6 +58,9 @@ In this module the robot rotates the camera around the objects in order to extra
 
 # 3D Object reconstruction
 This module simulates the execution loop of the sorting stage of the robot. In it, the robot takes a picture of the initial state of the scattered bricks in the workspace. The camera output is then passed to the jupyter notebook code where it detects the positions and orientations of all lego pieces, which it uses to plan and then execute a sorting routine where it places all bricks on different columns depending on type. 
+
+# Hardware Scheme
+<img src="https://github.com/1462731/Delta-robot-LEGO-builder/blob/main/HardwareSchematics/LEGObuilderHardware.png" align="center" width="600" alt="header pic"/>
 
 # Building
 
